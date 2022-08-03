@@ -1,6 +1,6 @@
 # Tugas-Frazztrack
 
 # Hendra Latumeten
-# Bacth 2 Backend Golang
+# Batch 2 Backend Golang
 
 
